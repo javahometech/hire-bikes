@@ -1,1 +1,2 @@
 Git is popular tool
+Git is lightweight

@@ -4,4 +4,3 @@ Git is lightweight
 Git is very commonly used
 Git is easy tool
 Git is comprehensive tool
-Git is distributed version control system
